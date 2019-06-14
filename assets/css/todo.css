@@ -3,3 +3,8 @@
     margin: 0 auto;
     background: #D1D1D1;
 }
+
+.completed {
+    color: grey;
+    text-decoration: line-through;
+}
